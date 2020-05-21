@@ -22,6 +22,6 @@ int main(){
     }else{
         resp="La palabra no tiene la misma palabra al inicio y al final :(";
     }
-    cout<<resp<<endl;
+    cout<< resp <<endl;
     return 0;
 }

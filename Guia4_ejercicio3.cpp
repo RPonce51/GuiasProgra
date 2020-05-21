@@ -13,6 +13,6 @@ while(n!=0){
             cout<<n<<  " es un numero negativo"<< endl;
         }
     }
-    cout<< "El numero 0 no es positivo ni negativo"<< endl;
+     cout<< "El numero 0 no es positivo ni negativo"<< endl;
     return 0;
 }

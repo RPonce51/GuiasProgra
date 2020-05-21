@@ -16,7 +16,7 @@ int main (){
   }else{
       resp2 = "es una palabra impar";
   }
-  cout<< resp1<< " y "<< resp2<< endl;
+  cout<< resp1 << " y "<< resp2<< endl;
 
   
     return 0;

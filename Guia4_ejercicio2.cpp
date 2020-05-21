@@ -14,7 +14,7 @@ int main(){
         }else if(n%2==0){
             cout<< "El numero "<<n<<" es par"<< endl;
         }else{
-            cout<< "El numero "<< n<< " es impar"<<endl;
+            cout<< "El numero "<< n << " es impar"<<endl;
         }
     
     
